@@ -1,0 +1,28 @@
+[
+	{
+		"NAME":"CONF",
+		"DISPLAY_NAME":"設定ファイル",
+		"POSY":"70",
+		"POSX":"0"
+	},{
+		"NAME":"ETC",
+		"DISPLAY_NAME":"NONE",
+		"POSY":"70",
+		"POSX":"110"
+	},{
+		"NAME":"HOME",
+		"DISPLAY_NAME":"ホームディレクトリ",
+		"POSY":"70",
+		"POSX":"190"
+	},{
+		"NAME":"OS",
+		"DISPLAY_NAME":"システム",
+		"POSY":"70",
+		"POSX":"340"
+	},{
+		"NAME":"README.txt",
+		"DISPLAY_NAME":"まずは読んでね！",
+		"POSY":"200",
+		"POSX":"150"
+	}
+]

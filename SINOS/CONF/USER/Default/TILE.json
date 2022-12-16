@@ -1,0 +1,14 @@
+[
+	{
+		"ID":"TEST",
+		"NAME":"るみしすてむ",
+		"POS":"0",
+		"VOID":"window.open('https://rumiserver.com/rumisystem/','_blank')"
+	},
+	{
+		"ID":"LOGINUI",
+		"NAME":"ログアウト",
+		"POS":"10",
+		"VOID":"LOGINUI_LOGOUT();"
+	}
+]
