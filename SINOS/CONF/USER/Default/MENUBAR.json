@@ -1,4 +1,6 @@
 [
 	"<BUTTON onclick=\"Menu_OC()\" style=\"width: 80px; height: 80px; background-image: url(./ETC/SINOS/LOGO.png); background-size: cover;\" title=\"メニュー\"></BUTTON>",
-	"<HR>"
+	"<HR>",
+	"<DIV class=\"TASKBAR\" id=\"TASKBAR\">",
+	"</DIV>"
 ]
